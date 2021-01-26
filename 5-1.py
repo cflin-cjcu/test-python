@@ -1,5 +1,5 @@
 # You are given a string.
-s= "Abrakadabra"
+s= input()
 # In the first line, print the third character of this string.
 print(s[2])
 # In the second line, print the second to last character of this string.
